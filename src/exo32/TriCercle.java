@@ -28,7 +28,6 @@ public class TriCercle {
             } 
         });
 
-
         for(Cercle c: liste)
             c.affiche();
 
